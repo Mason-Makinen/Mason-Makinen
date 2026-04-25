@@ -1,7 +1,4 @@
-## Welcome to my GitHub 🎉
+# Unique Commit for Mason-Makinen
 
-| | |
-|---|---|
-| 👤 | Computer science student |
-| 📍 | Barcelona |
-| 🛠️ | C++, Spring, Go, Phoenix |
+Random data: bbbbbbbbbb
+Date: 2026-04-25
